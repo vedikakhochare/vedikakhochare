@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedikakhochare&label=Profile%20views&color=0e75b6&style=flat" alt="vedikakhochare" /> </p>
-- 🌱 I’m currently learning **Java and Javascript**
+
+- 🌱 I’m currently learning **Java and JavaScript**.
 
 - 👯 I’m looking to collaborate on **projects that align with my interests and skills**
 
