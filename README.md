@@ -61,12 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"
        alt="supabase" width="40" height="40"/>
 </a>
-
-<!-- IoT -->
-<a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetofthings.svg"
-       alt="iot" width="40" height="40"/>
-</a></p>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedikakhochare&show_icons=true&locale=en&layout=compact" alt="vedikakhochare" /></p>
