@@ -64,8 +64,21 @@ Computer vision-based classroom analytics tool for attendance tracking, engageme
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" alt="canva" width="40" height="40"/></a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/canva" alt="canva" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/powerbi" alt="powerbi" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftexcel" alt="excel" width="40" height="40"/></a>
+<a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecolab" alt="google colab" width="40" height="40"/></a>
 </p>
+
 
 **Also using:** NumPy, Pandas, Matplotlib, Scikit-learn, Pillow, Hadoop, Power BI, Excel, Ollama, YOLO, Streamlit, VS Code, Linux, Google Colab
 
