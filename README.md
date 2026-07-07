@@ -9,8 +9,7 @@
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science** @ KJ Somaiya Institute of Technology (CGPA: 9.3/10)
 - 🔭 Currently building **AI-powered tools** across cybersecurity, LLM applications, and full-stack platforms
-- 🌱 Exploring **Cybersecurity, LLMs & Agentic AI**
-- ⚡ Experience across **AI/Cybersecurity, GenAI/Agentic AI, and App Development** internships
+- 🌱 Exploring **Cybersecurity & Data science**
 - 👯 Looking to collaborate on **projects that align with my interests and skills**
 - 📫 Reach me at **khocharevedika@gmail.com**
 
