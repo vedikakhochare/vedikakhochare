@@ -11,7 +11,7 @@
 - 🔭 Currently building **AI-powered tools** across cybersecurity, LLM applications, and full-stack platforms
 - 🌱 Exploring **Cybersecurity & Data science**
 - 👯 Looking to collaborate on **projects that align with my interests and skills**
-- 📫 Reach me at **khocharevedika@gmail.com**
+
 
 ---
 
