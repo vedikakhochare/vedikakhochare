@@ -34,7 +34,7 @@
 ### 🚀 Featured Projects
 
 **🔐 AI-Powered Security Log Analyzer**
-LLM-powered tool (Ollama + Llama 3.2) that converts 2,000+ raw security logs into human-readable insights in under 2 minutes. Supports Windows Event Logs, CSV, and custom formats with PII masking, MITRE ATT&CK mapping, and a Streamlit dashboard with PDF/Excel export.
+LLM-powered tool (Ollama + Llama 3.2) that converts 2,000+ raw security logs into human-readable insights in under 2 minutes. Supports Windows Event Logs, CSV, and custom formats with PII masking, suspicious event detection, and downloadable PDF reports.
 `Python` `Streamlit` `Ollama` `Llama 3.2` `Pandas` `python-evtx` `ReportLab`
 
 **🔄 SkillSwap**
@@ -84,9 +84,11 @@ Computer vision-based classroom analytics tool for attendance tracking, engageme
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedikakhochare&show_icons=true&locale=en&layout=compact" alt="vedikakhochare" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedikakhochare&show_icons=true&locale=en&theme=tokyonight" alt="vedikakhochare github stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedikakhochare&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vedikakhochare top languages" height="165" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedikakhochare&show_icons=true&locale=en" alt="vedikakhochare" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedikakhochare&" alt="vedikakhochare" /></p> -->
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vedikakhochare&theme=tokyonight" alt="vedikakhochare github streak" height="165" />
+</p>
