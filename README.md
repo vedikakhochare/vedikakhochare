@@ -84,6 +84,4 @@ Computer vision-based classroom analytics tool for attendance tracking, engageme
 
 ## 📈 GitHub Stats
 
-![Vedika's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedikakhochare&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedikakhochare&layout=compact&theme=tokyonight&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=vedikakhochare&theme=tokyonight&cache_seconds=1800)
