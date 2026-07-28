@@ -31,22 +31,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-**🔐 AI-Powered Security Log Analyzer**
-LLM-powered tool (Ollama + Llama 3.2) that converts 2,000+ raw security logs into human-readable insights in under 2 minutes. Supports Windows Event Logs, CSV, and custom formats with PII masking, suspicious event detection, and downloadable PDF reports.
-`Python` `Streamlit` `Ollama` `Llama 3.2` `Pandas` `python-evtx` `ReportLab`
-
-**🔄 SkillSwap**
-A skill-sharing platform with user profiles, skill discovery, a time-based credit system, 1:1 skill matching, and a ratings/feedback mechanism to build trust between users.
-`TypeScript` `Firebase`
-
-**📊 VibeCheck**
-Computer vision-based classroom analytics tool for attendance tracking, engagement measurement, and activity classification — reducing manual attendance time by 90%.
-`Python` `JavaScript` `HTML` `CSS` `YOLO`
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
