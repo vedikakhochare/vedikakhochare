@@ -72,8 +72,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedikakhochare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedikakhochare&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedikakhochare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedikakhochare&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
