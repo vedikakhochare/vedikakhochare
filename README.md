@@ -77,6 +77,10 @@
 </p>
 
 <p align="center">
+  [![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=vedikakhochare&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+<p align="center">
   <img src="images/trophy.svg" alt="GitHub trophies" />
 </p>
 
