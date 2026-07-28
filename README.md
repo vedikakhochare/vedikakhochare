@@ -68,9 +68,5 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="images/streak.svg" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedikakhochare&theme=tokyo-night" alt="Contribution graph" />
 </p>
