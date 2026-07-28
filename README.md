@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=vedikakhochare&label=Profile%20views&color=0e75b6&style=flat" alt="vedikakhochare" />
 </p>
 
-- 🎓 B.Tech in **Artificial Intelligence and Data Science** @ KJ Somaiya Institute of Technology (CGPA: 9.3/10)
+- 🎓 B.Tech in **Artificial Intelligence and Data Science** (CGPA: 9.3/10)
 - 🔭 Currently building **AI-powered tools** across cybersecurity, LLM applications, and full-stack platforms
 - 🌱 Exploring **Cybersecurity & Data science**
 - 👯 Looking to collaborate on **projects that align with my interests and skills**
