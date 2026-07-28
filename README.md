@@ -72,18 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="images/stats.svg" alt="GitHub stats" height="165" />
-  <img src="images/top-langs.svg" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  [![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=vedikakhochare&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
-<p align="center">
-  <img src="images/trophy.svg" alt="GitHub trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedikakhochare&theme=tokyo-night" alt="Contribution graph" />
 </p>
