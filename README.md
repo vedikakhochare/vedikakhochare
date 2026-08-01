@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science** (CGPA: 9.3/10)
 - 🔭 Currently building **AI-powered tools** across cybersecurity, LLM applications, and full-stack platforms
-- 🌱 Exploring **<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=123E51&width=435&lines=Cybersecurity+%26+Data+Science" alt="Typing SVG" /></a>**
+- 🌱 Exploring **Cybersecurity & Data Science**
 - 👯 Looking to collaborate on **projects that align with my interests and skills**
 
 ---
