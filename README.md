@@ -15,7 +15,7 @@
 
 ---
 
-### 💼 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=123E51&width=435&lines=Experience" alt="Typing SVG" /></a>
+### 💼 Experience
 
 **AI & Cybersecurity Intern** — Cyber Secured India *(Dec 2025 – Mar 2026)*
 - Developed chatbot features and an LLM-based Windows Event Log analyzer, automating interpretation of 2,000+ logs
