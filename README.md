@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B5D7A&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedika+Khochare" alt="Typing SVG" /></a></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=AI+%26+Data+Science+Engineer+%7C+Building+intelligent%2C+secure%2C+data-driven+solutions" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=AI+%26+Data+Science+Engineer+;%7C+Building+intelligent%2C+secure%2C+;data-driven+solutions" alt="Typing SVG" /></a></h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
