@@ -9,9 +9,9 @@
 </p>
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science** (CGPA: 9.3/10)
-- 🔭 Currently building **AI-powered tools** across cybersecurity, LLM applications, and full-stack platforms
-- 🌱 Exploring **Cybersecurity & Data Science**
-- 👯 Looking to collaborate on **projects that align with my interests and skills**
+- Currently building **AI-powered tools** across cybersecurity, LLM applications, and full-stack platforms
+- Exploring **Cybersecurity & Data Science**
+- Looking to collaborate on **projects that align with my interests and skills**
 
 ---
 
