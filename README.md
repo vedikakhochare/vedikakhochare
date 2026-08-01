@@ -71,4 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedikakhochare&theme=tokyo-night" alt="Contribution graph" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vedikakhochare&theme=sakura-x" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vedikakhochare&theme=sakura-x" alt="GitHub Streak" /></a>
+</p>
